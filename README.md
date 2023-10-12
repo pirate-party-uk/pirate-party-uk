@@ -13,7 +13,6 @@ Join us in our mission to promote digital rights and open government. Here's how
 
 - **Contribute**: Feel free to fork and contribute to our open-source projects.
 - **Report Issues**: If you encounter any issues with our software, please report them.
-- **Contact Us**: If you have questions or want to get in touch, you can [contact us](mailto:contact@pirateparty.org.uk).
 
 ### Stay Connected
 
