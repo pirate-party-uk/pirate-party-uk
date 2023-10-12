@@ -4,7 +4,7 @@
 
 ### About Us
 
-The Pirate Party UK is a political party that advocates for digital rights, civil liberties, and open government. We believe in transparency, privacy, and an open, accessible internet for all.
+The Pirate Party UK is a political party that advocates for digital rights, civil liberties, and open government. We believe in transparency, privacy, and an open, LGBTQ+ rights, accessible internet for all.
 
 
 ### Get Involved
