@@ -94,10 +94,6 @@
   border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
 }
 
-.w-100 {
-  width: 100% !important;
-}
-
 .justify-content-center {
   justify-content: center !important;
 }
